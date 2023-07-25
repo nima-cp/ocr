@@ -1,0 +1,104 @@
+
+==================================================
+				page 1	
+==================================================
+Invoice #
+Invoice Date
+NET7
+Due Date
+1
+1585245
+Page
+Terms
+VRMM
+SERVICE LOCATION :
+Equip. ID
+Extended Price
+Unit Price
+UOM
+Qty
+Flight #
+Ref. #
+Item Desc hk
+Trans.Date
+Invoice
+BILL TO:
+Airport:
+ - MALE, MV
+Customer #
+Currency
+USD
+51990
+05/11/2023
+05/18/2023
+NEOS SPA
+No
+JESSICA RIPAMONTI
+VIA DELLA CHIESA, 68
+21019 SOMMA LOMBARDO
+-VA-
+LOMBARDY  IT 21019
+8686 New Trails Drive
+Suite 170
+The Woodlands, TX 77381
+USA
+ASSOCIATED ENERGY GROUP, LLC
+EIXIN
+NO711
+USG
+AVIATION TURBINE FUEL - VRMM
+05/01/2023
+235543
+ 1
+ 9,522.870 
+EINEU
+NO141
+USG
+AVIATION TURBINE FUEL - VRMM
+05/02/2023
+235618
+ 2
+ 3,011.290 
+EINEU
+NO511
+USG
+AVIATION TURBINE FUEL - VRMM
+05/06/2023
+235917
+ 3
+ 8,996.110 
+EINEO
+NO711
+USG
+AVIATION TURBINE FUEL - VRMM
+05/08/2023
+236077
+ 4
+ 7,081.390 
+Item Sub Total
+ 28,611.660 
+2813634141
+ 325,203.55 
+ 45,836.42 
+23,229.37 
+19,522.23 
+60,615.53 
+ 6.393258 
+9.393258 
+5.393258 
+8.323379 
+Phone:
+SYSTEM SYSTEM
+User Id:
+Total Due:
+Comments:
+$ 325,203.55 
+This invoice incorporates by reference Associated Energy Group, LLC’s General Terms and Conditions AEG-Fuels_General_Terms_Condition.pdf (aegfuels.com), which customer acknowledges it has 
+read and accepted, including, specifically, Section 12 entitled Governing Law, Jurisdiction and Venue and Section 32 entitled Extraterritorial Effect of Texas Property Code Section 70.301 et seq. Any 
+and all claims and disputes must be made within 10 days of receipt of invoice to csr@aegfuels.com otherwise it is deemed accepted. 
+PAYMENT DISCLAIMER: To maintain security in your transactions with AEG, and to ensure your successful payment of this invoice, please NEVER accept any changes to banking detail 
+instructions,      or payment remit information via email, without first contacting your AEG representative to verbally confirm any changes to this information. Please immediately report any suspicious 
+emails you receive  from AEG asking you to change bank details of payment remittance.
+REMIT USD WIRE TO: PNC Bank N.A. ACCT: Associated Energy Group LLC. ACCT #: 1241209256, ABA: 043000096, SWIFT: PNCCUS33. REMIT CHECK TO: Associated Energy Group LLC, 
+701 Waterford Way, Suite 490, Miami, FL 33126, USA.
+Data : 23/05/2023       Prot. : NO-A-23001879        
